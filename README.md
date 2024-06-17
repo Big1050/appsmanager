@@ -1,4 +1,4 @@
-# downloader
+# Apps Manager
 
 A new Flutter project.
 
