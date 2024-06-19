@@ -1,6 +1,6 @@
 name: appsmanager
 description: appsmanager package help to connect your app with https://appsmanager.tech/.
-version: 1.2.5
+version: 1.2.6
 repository: https://github.com/Big1050/appsmanager.git
 homepage: https://appsmanager.tech/
 
